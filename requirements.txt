@@ -2,3 +2,4 @@ Flask
 Flask-Session
 passlib
 SQLAlchemy
+cs50
